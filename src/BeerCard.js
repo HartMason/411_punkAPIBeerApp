@@ -11,7 +11,7 @@ export default function BeerCard(props) {
   };
 
   return (
-    <div>
+    <div id="beerInfo">
       <p className="beerName">{beer.name}</p>
       <p>{beer.abv}</p>
       <img

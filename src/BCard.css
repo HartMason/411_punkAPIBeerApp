@@ -4,3 +4,8 @@
     font-weight: bold;
 }
 
+#beerInfo {
+    border: black;
+    border-style: solid;
+    padding-bottom: 10px;    
+}
